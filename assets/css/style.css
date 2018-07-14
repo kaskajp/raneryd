@@ -104,3 +104,8 @@ article hr {
   border: none;
   margin-bottom: 30px;
 }
+
+article img {
+  display: block;
+  width: 100%;
+}
